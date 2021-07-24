@@ -1,6 +1,6 @@
 <h1>News-API </h1>
 
-<p>No código acima foi feita uma API simples utilizando o  node e utilizando MySql e a lib [express](http://expressjs.com/), para testar as requisições foi utilizado o [POSTMAN](https://www.postman.com/) e o gerenciamento do banco foi feito com o MySql [Workbench](https://www.mysql.com/products/workbench/)</p>
+No código acima foi feita uma API simples utilizando o  node e utilizando MySql e a lib [express](http://expressjs.com/), para testar as requisições foi utilizado o [POSTMAN](https://www.postman.com/) e o gerenciamento do banco foi feito com o MySql [Workbench](https://www.mysql.com/products/workbench/)
 
 <h2>Para rodar o código:</h2>
 
