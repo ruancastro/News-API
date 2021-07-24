@@ -37,9 +37,17 @@
 Temos abaixo imagens representativas da resposta das requisições feitas:
 </p>
 
+<h2>Em "categorias" eu tenho o retorno de todas as categorias via GET </h2>
+
 ![enter image description here](https://github.com/ruancastro/News-API/blob/master/images/busca_categorias_bd_postman.jpg)
 
+
+<h2>Em "notícias" eu tenho o retorno da notícia que tem por id o valor passado. Verbo da requisição tipo GET </h2>
+
 ![enter image description here](https://github.com/ruancastro/News-API/blob/master/images/busca_umanoticia_postman.jpg)
+
+
+<h2>Em "busca uma categoria" eu tenho o retorno da notícia que atende a uma categoria específica e tem determinado id O verbo da requisição também é do tipo GET </h2>
 
 ![enter image description here](https://github.com/ruancastro/News-API/blob/master/images/busca_titulo_noticia_por_id_postman.jpg)
 
