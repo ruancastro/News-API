@@ -27,7 +27,7 @@
 
 ![enter image description here](https://github.com/ruancastro/News-API/blob/master/images/tabela_categoria.jpg)
 
-![enter image description here](https://github.com/ruancastro/News-API/blob/master/images/tabela_noticia.jpg)
+![enter image description here](https://github.com/ruancastro/News-API/blob/master/images/tabela_noticia1.jpg)
 
 <p>No postman criei três requisições que são: <ul>
 <li>Categorias</li>
