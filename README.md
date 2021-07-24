@@ -24,6 +24,7 @@
 
 <h2>Exemplo de utilização: </h2>
 <p> O banco de dados possui duas tabelas que são as tabelas categoria e noticia, que estão dispostas abaixo: </p>
+
 ![enter image description here](https://github.com/ruancastro/News-API/blob/master/images/tabela_categoria.jpg)
 
 ![enter image description here](https://github.com/ruancastro/News-API/blob/master/images/tabela_noticia.jpg)
@@ -35,6 +36,7 @@
 </ul>
 Temos abaixo imagens representativas da resposta das requisições feitas:
 </p>
+
 ![enter image description here](https://github.com/ruancastro/News-API/blob/master/images/busca_categorias_bd_postman.jpg)
 
 ![enter image description here](https://github.com/ruancastro/News-API/blob/master/images/busca_umanoticia_postman.jpg)
@@ -42,4 +44,5 @@ Temos abaixo imagens representativas da resposta das requisições feitas:
 ![enter image description here](https://github.com/ruancastro/News-API/blob/master/images/busca_titulo_noticia_por_id_postman.jpg)
 
 <h2>Link útil: </h2>
+
 [express guide database integration](http://expressjs.com/en/guide/database-integration.html#mysql)
